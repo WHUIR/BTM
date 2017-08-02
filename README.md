@@ -1,2 +1,2 @@
 # BTM
-Our implementation of BTM (published in WWW 2013)
+Our implementation of Biterm Topic Model (BTM) (published in WWW 2013)
